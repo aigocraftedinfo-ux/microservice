@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Microservices Platform",
+  "description": "Full-stack Amazon clone built with microservices architecture, REST API gateway, in-memory data persistence, and interactive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
